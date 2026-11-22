@@ -1,23 +1,26 @@
-# AI资源共享库官网
+# AI资源共享库
 
-浏览器扩展「AI资源共享库」的产品介绍、使用指南和隐私政策网站。
+浏览器扩展，帮助群友分享和浏览 AI 工具、教程与资源。
 
-本仓库只包含公开网站的 HTML、CSS、演示脚本和图标，**不包含浏览器插件源码、插件安装包、群共享表地址、真实群资源或授权凭据**。首页的交互卡片使用虚构示例数据。
+## 安装与了解
 
-## 网站
+- [Chrome 应用商店](https://chromewebstore.google.com/detail/ojpmmcdmfidileddodgehlmgelgkglfb)
+- [官网](https://liudali333.github.io/ai-resource-library-site/)
+- [使用指南](https://liudali333.github.io/ai-resource-library-site/help/)
+- [隐私政策](https://liudali333.github.io/ai-resource-library-site/privacy/)
 
-- 官网：https://liudali333.github.io/ai-resource-library-site/
-- 使用指南：https://liudali333.github.io/ai-resource-library-site/help/
-- 隐私政策：https://liudali333.github.io/ai-resource-library-site/privacy/
+## 功能
 
-## 发布方式
+- 网页投稿：填写标题、链接和分类，可附加截图，直接提交到腾讯文档共享表。
+- 悬浮机器人：浏览、搜索和翻页查看群资源，显示今日条数与更新提示。
+- 网页工具：划词翻译、生成二维码分享海报。
+- IP 检测：查看当前出口 IP 的网络属性和风险系数。
+- 素材解析：在支持的平台页面解析视频或图文，下载可用素材。
 
-这是无构建依赖的静态网站。在 Settings → Pages 中选择 Deploy from a branch，再选择 main 分支的 /(root) 目录即可。`.nojekyll` 用于直接发布静态文件。全部站内链接均使用相对路径，适用于 GitHub Pages 项目子目录。
+功能以商店上架版本为准。腾讯文档功能使用个人授权，并受账号及文档权限限制。翻译、IP 检测和素材解析可能使用第三方服务，实际结果受服务与平台可用性影响。
 
-更新 main 分支的网页文件后，GitHub Pages 会重新发布网站。
+## 关于本仓库
 
-## 联系
+本仓库只包含公开网站文件，不包含插件源码、插件安装包或授权凭据。
 
-1120374193@qq.com
-
-本产品为独立开发，与腾讯、微信及 Google 无隶属关系。
+反馈邮箱：1120374193@qq.com
